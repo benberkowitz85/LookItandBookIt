@@ -4,7 +4,7 @@ Description
 
 Books are essential to the human experience. Thru books we venture into the unknown, gain new perspectives, gain knowledge, and dream. This is a celebration of literature. 
 
-
+Demo
 
 
 User Story
@@ -40,4 +40,9 @@ THEN I am presented with all of the books I have saved to my account, each featu
 WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
-THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Si
+THEN I am logged out of the site and presented with a menu with the options Search for Books and Login
+
+Acknowledgements 
+
+As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google.
+
