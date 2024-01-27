@@ -1,5 +1,12 @@
 # LookItandBookIt
 
+Description 
+
+Books are essential to the human experience. Thru books we venture into the unknown, gain new perspectives, gain knowledge, and dream. This is a celebration of literature. 
+
+
+
+
 User Story
 AS AN avid reader
 I WANT to search for new books to read
